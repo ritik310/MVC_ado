@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\mvccrudwithado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\mvccrudwithado\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\mvccrudwithado\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\mvccrudwithado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\mvccrudwithado\\service\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\service\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|c:\\users\\dell\\source\\repos\\mvccrudwithado\\mvccrudwithado\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|c:\\users\\dell\\source\\repos\\mvccrudwithado\\mvccrudwithado\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|c:\\users\\dell\\source\\repos\\mvccrudwithado\\mvccrudwithado\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\mvccrudwithado\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\mvccrudwithado\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\mvccrudwithado\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2334C627-6B80-43B0-95FE-CD54A94AAD07}|MVCCRUDwithADO\\MVCCRUDwithADO.csproj|solutionrelative:mvccrudwithado\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Service\\UserDAL.cs",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Service\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Service\\UserDAL.cs",
+              "RelativeToolTip": "MVCCRUDwithADO\\Service\\UserDAL.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwGAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:47:55.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "MVCCRUDwithADO\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:12:27.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCRUDwithADO\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T14:38:56.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\User\\List.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Views\\User\\List.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\User\\List.cshtml",
+              "RelativeToolTip": "MVCCRUDwithADO\\Views\\User\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T14:28:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Models\\UserModel.cs",
+              "RelativeToolTip": "MVCCRUDwithADO\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:45:46.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "MVCCRUDwithADO\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T14:47:25.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MVCCRUDwithADO\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:45:14.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Web.config",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Web.config",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Web.config",
+              "RelativeToolTip": "MVCCRUDwithADO\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-01T13:48:07.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCCRUDwithADO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:43:14.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "MVCCRUDwithADO\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:36:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDwithADO\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MVCCRUDwithADO\\MVCCRUDwithADO\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MVCCRUDwithADO\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T13:44:10.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
